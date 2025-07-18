@@ -1,2 +1,2 @@
-# sudoku-privacy
-Privacy Policy for SudokuApp
+# M-Game
+Privacy Policy for SudokuApp,Knight's tour
